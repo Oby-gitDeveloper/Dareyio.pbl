@@ -13,3 +13,7 @@
 5. Nginx was configured to use PHP processor to host more than one domain on a server
 6. A test was carried out to validate that nginx can handle php files to PHP processor. The output is as shown below:
 
+![Project2-Step-5](https://user-images.githubusercontent.com/69041949/165418893-fb9d50b4-a3b9-4fd9-bd92-a3b86efcb238.jpg)
+
+7. A test mysql database was created, and nginx server was able to query and  retrieve data from the database. The display it gave is a shown below:
+
